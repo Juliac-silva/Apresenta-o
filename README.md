@@ -1,8 +1,9 @@
 # Olá, eu sou a Julia 👋
 
 <p align="center">
-  <img width="1536" height="1024" alt="ChatGPT Image 11 de mar  de 2026, 19_50_17"src="https://github.com/user-attachments/assets/2434c601-f147-4f91-87d1-2cb74948f7b6"/>
+  <img width="1536" height="1024" alt="Gen-4 Turbo Animate this image into a short seamless loop The character is sitting at a desk in front of a computer and typing on the keyboard The hands should move naturally as if coding or working (online-video-cu](https://github.com/user-attachments/assets/3c154a91-6bcb-449b-bbc6-60bdd33bbba1 />
 </p>
+
 
 ## 👨‍💻 Sobre mim
 
