@@ -1,7 +1,7 @@
 # Olá, eu sou a Julia 👋
 
 <p align="center">
-  <img src="[hello_kitty_typing_code.gif](https://github.com/user-attachments/assets/0265eec5-1d7d-4fcf-bd44-fb967fbdb314)" width="900">
+  <img src="https://github.com/user-attachments/assets/0265eec5-1d7d-4fcf-bd44-fb967fbdb314" width="900">
 </p>
 
 ## 👨‍💻 Sobre mim
