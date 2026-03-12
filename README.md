@@ -1,9 +1,8 @@
 # Olá, eu sou a Julia 👋
 
 <p align="center">
-  <img width="1536" height="1024" alt="Gen-4 Turbo Animate this image into a short seamless loop The character is sitting at a desk in front of a computer and typing on the keyboard The hands should move naturally as if coding or working (online-video-cu](https://github.com/user-attachments/assets/3c154a91-6bcb-449b-bbc6-60bdd33bbba1 />
+  <img src="[hello_kitty_typing_code.gif](https://github.com/user-attachments/assets/0265eec5-1d7d-4fcf-bd44-fb967fbdb314)" width="900">
 </p>
-
 
 ## 👨‍💻 Sobre mim
 
