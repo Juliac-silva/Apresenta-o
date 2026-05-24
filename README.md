@@ -38,12 +38,10 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  
-![Julia GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliac-silva&show_icons=true&theme=tokyonight)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliac-silva&show_icons=true&theme=tokyonight"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliac-silva&layout=compact&theme=tokyonight)
-
----
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliac-silva&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 📫 Contato
 
